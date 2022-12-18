@@ -17,7 +17,10 @@
 
 
 ## Usage 
-
+This portfolio will be used to show previous work to future employers. It will be updated as I learn more in the bootcamp and to showcase my growth and abilities.
+[Nav Bar Example](./assets/images/navbarExample.png)
+[ul bullets removal](./assets/images/list%20bullet%20removal.png)
+ I learned how to use CSS styling to remove the bullet points from the ul element. I also learned how to use the nav tag.
 
 
 ## Learning Points 
@@ -37,7 +40,7 @@ UCB Coding Bootcamp Student
 
 ## Credits
 
-W3Schools.com was extremely helpful helping me to learn what certain tags and elements did. 
+[W3Schools.com](https://www.w3schools.com/) was extremely helpful helping me to learn what certain tags and elements did. 
 
 
 ## License
