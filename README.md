@@ -21,7 +21,7 @@ This portfolio will be used to show previous work to future employers. It will b
 
 
 
-## Learning Points 
+## Learning Points and Examples
 
 
 1. Learned how to apply what was taught in the first week of the bootcamp.
