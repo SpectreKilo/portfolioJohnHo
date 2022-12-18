@@ -1,0 +1,38 @@
+body{
+    background-color: beige;
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+li{
+    display: inline;
+    float: right;
+}
+a{
+    display: block;
+    padding: 10px;
+    background-color: cyan;
+}
+
+header{
+    background-color: cyan;
+}
+
+.who{
+
+}
+
+.work{
+
+}
+
+.contact{
+
+}
