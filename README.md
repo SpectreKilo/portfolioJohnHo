@@ -19,10 +19,6 @@
 ## Usage 
 This portfolio will be used to show previous work to future employers. It will be updated as I learn more in the bootcamp and to showcase my growth and abilities.<br/>
 
-![Nav Bar Example](./assets/images/navbarExample.png)<br/>
-![ul bullets removal](/assets/images/listExample.png)<br/>
-
- I learned how to use CSS styling to remove the bullet points from the ul element. I also learned how to use the nav tag.<br/>
 
 
 ## Learning Points 
@@ -30,7 +26,14 @@ This portfolio will be used to show previous work to future employers. It will b
 
 1. Learned how to apply what was taught in the first week of the bootcamp.
 2. Applied flexbox to portfolio.
-3. Learned how to properly link images.
+3. Learned how to properly link images.<br/>
+
+![Nav Bar Example](./assets/images/navbarExample.png)<br/>
+![ul bullets removal](/assets/images/listExample.png)<br/>
+
+ I learned how to use CSS styling to remove the bullet points from the ul element. I also learned how to use the nav tag.<br/>
+
+
 
 
 
