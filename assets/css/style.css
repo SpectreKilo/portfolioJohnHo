@@ -1,3 +1,8 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
 body{
     background-color: beige;
 }
@@ -46,16 +51,16 @@ header{
     background-color: beige;
 }
 
-.who{
-
-}
-
-.work{
-
-}
-
-.contact{
-
+.who,
+.work,
+.contact
+{
+flex-direction: column;
+border: double;
+border-radius: 10px;
+background-color: cyan;
+text-align: center;
+padding: 15px 10px;
 }
 
 li a:hover{
