@@ -2,27 +2,48 @@ body{
     background-color: beige;
 }
 
+h1{
+    color: magenta;
+    text-align: center;
+    border: double;
+    border-radius: 10px;
+    padding: 8px 5px;
+}
+
 
 
 ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+    overflow: hidden;
+    background-color: cyan;
+    border: double;
+    border-radius: 10px;
+    
+
 
 }
 
 li{
-    display: inline;
-    float: right;
+    
+    float: left;
 }
 a{
     display: block;
     padding: 10px;
     background-color: cyan;
 }
+li a {
+    display: block;
+    color: magenta;
+    text-align: center;
+    padding: 15px 10px;
+    text-decoration: none;
+}
 
 header{
-    background-color: cyan;
+    background-color: beige;
 }
 
 .who{
@@ -35,4 +56,8 @@ header{
 
 .contact{
 
+}
+
+li a:hover{
+    background-color: yellow;
 }
