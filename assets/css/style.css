@@ -7,6 +7,10 @@ body{
     background-color: beige;
 }
 
+main{
+
+}
+
 h1{
     color: magenta;
     text-align: center;
@@ -64,5 +68,6 @@ padding: 15px 10px;
 }
 
 li a:hover{
-    background-color: yellow;
+    background-color: beige;
+    box-shadow: inset 0px 0px 15px magenta;
 }
