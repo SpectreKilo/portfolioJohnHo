@@ -78,7 +78,8 @@ header{
 
 .who,
 .work,
-.contact
+.contact,
+.work2
 {
 flex-direction: column;
 border: double;
@@ -92,6 +93,16 @@ padding: 15px 10px;
     width: 50px;
     height: 50px;
     
+}
+.work img{
+    width: 600px;
+    height: 300px;
+    
+}
+
+.work2 img{
+    width: 500px;
+    height: 300px;
 }
 
 li a:hover{
